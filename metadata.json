@@ -1,0 +1,8 @@
+{
+  "name": "SI-PPKN — Sistem Informasi PPKN MTs",
+  "description": "Sistem Informasi Pendidikan Pancasila dan Kewarganegaraan (PPKN) untuk Madrasah Tsanawiyah dengan Modul Ajar, Bank Soal, Presensi, Nilai, dan Arsip Guru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
